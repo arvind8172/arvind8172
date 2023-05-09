@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @arvind8172
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- Engineer
+- 👀 I’m interested in Machine Learning
+- 🌱 I’m currently learning Web Development
+- 💞️ I’m looking to collaborate on relevant technology
+- 📫 How to reach me 8172822050
+- IT Engineer
 
 <!---
 arvind8172/arvind8172 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
